@@ -52,7 +52,7 @@ K_omega = 0.03
 K = 8.08
 ```
 
-Le calcul s'effectue en deux temps. Le gain $K_\Omega$ assure que le système corrigé sera associé à la marge de phase imposée. Ensuite,  $K_\theta$ (correction proportionnelle sur le système bouclé en votesse) va ajuster le gain pour s'assurer que la pulsation de coupure soit bien celle qui est imposée.
+Le calcul s'effectue en deux temps. Le gain $K_\Omega$ assure que la réponse harmonique du système bouclé en vitesse présente le déphasage à $\omega_c$ qui corresponde bien à la marge de phase imposée. Ensuite,  $K_\theta$ (correction proportionnelle sur le système bouclé en vitesse) va ajuster le gain pour s'assurer que la pulsation de coupure soit bien celle qui est imposée.
 
 ![](Diapositive2.PNG)
 
