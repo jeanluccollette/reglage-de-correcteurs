@@ -10,13 +10,15 @@ On souhaite obtenir une réponse indicielle en boucle fermée qui soit approxima
 
 Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et $D \approx 10 \text{\\%}$. Il en résulte que $\omega_c=200\text{rd/s}$ et $\Delta\Phi=57\text{°}$.
 
-![](Diapositive1.PNG)
+## Correction série (avance de phase)
 
-![](Diapositive2.PNG)
+![](Diapositive1.PNG)
 
 ![](Figure_1.png)
 
 ![](Figure_2.png)
+
+![](Diapositive2.PNG)
 
 ![](Figure_3.png)
 
