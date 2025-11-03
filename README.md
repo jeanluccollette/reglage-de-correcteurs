@@ -8,7 +8,7 @@ On souhaite obtenir une réponse indicielle en boucle fermée qui soit approxima
 
 ![](abaque2.png)
 
-Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et $D \approx 10 \text{\\%}$ 
+Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et $D \approx 10 \text{\\%}$. Il en résulte que $\omega_c=200\text{rd/s}$ et $\Delta\Phi=57\text{°}$.
 
 ![](Diapositive1.PNG)
 
