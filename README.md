@@ -12,7 +12,9 @@ Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et $D \app
 
 ## Exemple choisi pour illustrer les réglages
 
-Le système étudié est un moteur à courant continu commandé par la tension à ses bornes. On dispose par ailleurs d'une mesure de la position et de la vitesse angulaire. Ce système est caractérisé par la fonction de transfert
+Le système étudié est un moteur à courant continu commandé par la tension à ses bornes. On dispose par ailleurs d'une mesure de la position et de la vitesse angulaire. Pour simplifier, on considère que ces mesures correspondent aux grandeurs physiques elles-mêmes. Dans la réalité, il faudra prendre en compte le gain des capteurs délivrant une valeur proportionnelle à ces grandeurs physiques.
+
+Ce système est caractérisé par la fonction de transfert
 
 $$\mu(p)=\dfrac{\Omega(p)}{U(p)}$$
 
