@@ -20,7 +20,7 @@ Pour compléter l'étude, on évalue l'effet d'une perturbation $d(t)$ sous form
 
 ## Les programmes
 
-Le programme [regl_corr.py](regl_corr.py) rassemble des fonctions réalisant le calcul des coefficients pour différents correcteurs. Le programme [test_regl_corr.py](test_regl_corr.py) fait appel à ces fonction pour une fonction de transfert $\mu(p)$ imposée.
+Le programme [regl_corr.py](regl_corr.py) rassemble des fonctions réalisant le calcul des coefficients pour différents correcteurs. Le programme [test_regl_corr.py](test_regl_corr.py) fait appel à ces fonction pour une fonction de transfert $\mu(p)$ imposée. Ces programmes font appel au package [control](https://python-control.readthedocs.io/en/0.10.1/)
 
 ## Correction série (avance de phase)
 
@@ -64,6 +64,6 @@ Avec le tracé de la réponse indicielle en boucle fermée, on vérifie que $t_m
 
 ![](Figure_4.png)
 
-Sur cet exemple, on peut par ailleurs étudier l'incidence d'une perturbation $d(t)$. On constate alors l'apparition d'un erreur statique entre la consigne et la mesure.
+Sur cet exemple, on peut par ailleurs étudier l'incidence d'une perturbation $d(t)$. On constate alors l'apparition d'un erreur statique entre la consigne et la mesure. L'élimination de cette erreur statique nécessitera l'ajout d'une correction avec action intégrale qui demandera un ajustement des paramètres du correcteur tackymétrique.
 
 ![](Figure_5.png)
