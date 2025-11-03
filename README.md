@@ -18,6 +18,8 @@ Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et $D \app
 
 ![](Figure_2.png)
 
+## Correction tackymétrique
+
 ![](Diapositive2.PNG)
 
 ![](Figure_3.png)
