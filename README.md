@@ -8,6 +8,8 @@ On souhaite obtenir une réponse indicielle en boucle fermée qui soit approxima
 
 ![](abaque2.png)
 
+Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et 
+
 ![](Diapositive1.PNG)
 
 ![](Diapositive2.PNG)
