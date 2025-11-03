@@ -24,6 +24,11 @@ Le programme [regl_corr.py](regl_corr.py) rassemble des fonctions réalisant le 
 
 ## Correction série (avance de phase)
 
+```console
+-- Correction par avance de phase
+a = 0.201  T = 0.011  K = 2.043
+```
+
 ![](Diapositive1.PNG)
 
 ![](Figure_1.png)
