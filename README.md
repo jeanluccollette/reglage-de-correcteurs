@@ -22,7 +22,7 @@ Pour compléter l'étude, on évalue l'effet d'une perturbation $d(t)$ sous form
 
 ## Les programmes
 
-Le programme [regl_corr.py](regl_corr.py) rassemble des fonctions réalisant le calcul des coefficients pour différents correcteurs. Le programme [test_regl_corr.py](test_regl_corr.py) fait appel à ces fonction pour une fonction de transfert $\mu(p)$ imposée. Ces programmes font appel au package [control](https://python-control.readthedocs.io/en/0.10.1/) (on choisira de préférence la version 0.10.1).
+Le programme [regl_corr.py](regl_corr.py) rassemble des fonctions réalisant le calcul des coefficients pour différents correcteurs et la validation de leur fonctionnement. Le programme [test_regl_corr.py](test_regl_corr.py) fait appel à ces fonction pour une fonction de transfert $\mu(p)$ imposée. Ces programmes font appel au package [control](https://python-control.readthedocs.io/en/0.10.1/) (on choisira de préférence la version 0.10.1).
 
 ## Correction série (avance de phase)
 
