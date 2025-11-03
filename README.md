@@ -12,7 +12,7 @@ Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et $D \app
 
 ## Exemple choisi pour illustrer les réglages
 
-Le système étudié est un moteur à courant continu commandé par la tension à ses bornes. On dispose par ailleurs d'une mesure de la position et de la vitesse angulaire.
+Le système étudié est un moteur à courant continu commandé par la tension à ses bornes. On dispose par ailleurs d'une mesure de la position et de la vitesse angulaire. Ce système est caractérisé par la fonction de transfert $\mu()=\dfrac{\Omega(p)}{U(p)}$.
 
 ## Correction série (avance de phase)
 
