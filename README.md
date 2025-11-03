@@ -2,7 +2,7 @@
 
 ## Cahier des charges
 
-On souhaite obtenir une réponse indicielle en boucle fermée qui soit approximativement associée à un dépassement $D$ et à un temps de premier maximum $t_m$.
+On souhaite obtenir une réponse indicielle en boucle fermée qui soit approximativement associée à un dépassement $D$ et à un temps de premier maximum $t_m$. On en déduit des contraintes sur la réponse harmonique en boucle ouverte sous la forme d'une pulsation de coupure $\omega_c$ et une marge de phase $\Delta\Phi$.
 
 ![](abaque1.png)
 
