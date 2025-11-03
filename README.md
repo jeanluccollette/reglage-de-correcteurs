@@ -16,6 +16,8 @@ Le système étudié est un moteur à courant continu commandé par la tension �
 
 $$\mu(p)=\dfrac{\Omega(p)}{U(p)}$$
 
+Pour compléter l'étude, on évalue l'effet d'une perturbation $d(t)$ sous forme d'échelon.
+
 ## Correction série (avance de phase)
 
 ![](Diapositive1.PNG)
