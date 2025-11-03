@@ -43,6 +43,13 @@ Avec le tracé de la réponse indicielle en boucle fermée, on vérifie que $t_m
 
 ## Correction tackymétrique
 
+```console
+-- Correction parallèle
+K_omega = 0.03
+-- Correction proportionnelle
+K = 8.08
+```
+
 ![](Diapositive2.PNG)
 
 ![](Figure_3.png)
