@@ -24,6 +24,8 @@ Le programme [regl_corr.py](regl_corr.py) rassemble des fonctions réalisant le 
 
 ## Correction série (avance de phase)
 
+Le cahier des charges imposé aboutit aux valeurs ci-dessous pour les paramètres d'un correcteur à avance de phase. 
+
 ```console
 -- Correction par avance de phase
 a = 0.201  T = 0.011  K = 2.043
