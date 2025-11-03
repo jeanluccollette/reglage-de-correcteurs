@@ -10,6 +10,10 @@ On souhaite obtenir une **réponse indicielle en boucle fermée** qui soit appro
 
 Dans les exemples qui suivent, on souhaite $t_m \approx 15 \text{ms}$ et $D \approx 10 \text{\\%}$. Il en résulte que $\omega_c=200\text{rd/s}$ et $\Delta\Phi=57\text{°}$.
 
+## Exemple choisi pour illustrer les réglages
+
+Le système étudié est un moteur à courant continu commandé par la tension à ses bornes. On dispose par ailleurs d'une mesure de la position et de la vitesse angulaire.
+
 ## Correction série (avance de phase)
 
 ![](Diapositive1.PNG)
