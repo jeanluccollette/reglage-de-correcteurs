@@ -56,7 +56,11 @@ Le calcul s'effectue en deux temps. Le gain $K_\Omega$ assure que la réponse ha
 
 ![](Diapositive2.PNG)
 
+Le réglage est validé par le tracé de la réponse harmonique en boucle ouverte corrigée.
+
 ![](Figure_3.png)
+
+Avec le tracé de la réponse indicielle en boucle fermée, on vérifie que $t_m \approx 15 \text{ms}$ et $D \approx 10 \text{\\%}$.
 
 ![](Figure_4.png)
 
