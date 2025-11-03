@@ -26,7 +26,7 @@ Le programme [regl_corr.py](regl_corr.py) rassemble des fonctions réalisant le 
 
 ## Correction série (avance de phase)
 
-Le cahier des charges imposé ($\omega_c=200\text{rd/s}$ et $\Delta\Phi=57\text{°}$) aboutit aux valeurs ci-dessous pour les paramètres d'un correcteur à avance de phase. 
+Le cahier des charges imposé ($\omega_c=200\text{rd/s}$ et $\Delta\Phi=57\text{°}$) aboutit aux valeurs ci-dessous pour les paramètres d'un correcteur à avance de phase. On considère ici que $d(t)=0$.
 
 ```console
 -- Correction par avance de phase
