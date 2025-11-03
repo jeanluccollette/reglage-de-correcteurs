@@ -64,4 +64,6 @@ Avec le tracé de la réponse indicielle en boucle fermée, on vérifie que $t_m
 
 ![](Figure_4.png)
 
+Sur cet exemple, on peut par ailleurs étudier l'incidence d'une perturbation $d(t)$. On constate alors l'apparition d'un erreur statique entre la consigne et la mesure.
+
 ![](Figure_5.png)
