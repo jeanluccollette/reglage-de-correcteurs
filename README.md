@@ -43,6 +43,10 @@ Avec le tracé de la réponse indicielle en boucle fermée, on vérifie que $t_m
 
 ## Correction tackymétrique
 
+Le cahier des charges imposé ($\omega_c=200\text{rd/s}$ et $\Delta\Phi=57\text{°}$) aboutit aux valeurs ci-dessous pour les paramètres d'un correcteur tackymétrique.
+
+
+
 ```console
 -- Correction parallèle
 K_omega = 0.03
