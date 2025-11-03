@@ -1,5 +1,9 @@
 # Réglage de correcteurs
 
+## Cahier des charges
+
+On souhaite obtenir une réponse indicielle en boucle fermée avec un dépassement $D$ et un temps de premier maximum $t_m$ 
+
 ![](abaque1.png)
 
 ![](abaque2.png)
