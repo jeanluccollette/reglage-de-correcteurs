@@ -66,6 +66,6 @@ Avec le tracé de la réponse indicielle en boucle fermée, on vérifie que $t_m
 
 ![](data/Figure_4.png)
 
-Sur cet exemple, on peut par ailleurs étudier l'incidence d'une perturbation $d(t)$. On constate alors l'apparition d'un erreur statique entre la consigne et la mesure. L'élimination de cette erreur statique nécessitera l'ajout d'une correction avec action intégrale qui demandera un ajustement des paramètres du correcteur tackymétrique.
+Sur cet exemple, on peut par ailleurs étudier l'incidence d'une perturbation $d(t)$. On constate alors l'apparition d'un erreur statique entre la consigne $e(t)$ et la mesure $\theta(t)$. L'élimination de cette erreur statique nécessitera l'ajout d'une correction avec action intégrale qui demandera un ajustement des paramètres du correcteur tackymétrique.
 
 ![](data/Figure_5.png)
