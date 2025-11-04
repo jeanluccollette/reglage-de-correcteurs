@@ -33,7 +33,7 @@ Le cahier des charges imposé ($\omega_c=200\text{rd/s}$ et $\Delta\Phi=57\text{
 a = 0.201  T = 0.011  K = 2.043
 ```
 
-![](Diapositive1.PNG)
+![](data/Diapositive1.PNG)
 
 Le réglage est validé par le tracé de la réponse harmonique en boucle ouverte corrigée.
 
@@ -56,7 +56,7 @@ K = 8.08
 
 Le calcul s'effectue en deux temps. Le gain $K_\Omega$ assure que la réponse harmonique du système bouclé en vitesse présente le déphasage à $\omega_c$ qui corresponde bien à la marge de phase $\Delta\Phi$ imposée. Ensuite,  $K_\theta$ (correction proportionnelle sur le système bouclé en vitesse) est le gain assurant que la pulsation de coupure soit bien celle qui est imposée.
 
-![](Diapositive2.PNG)
+![](data/Diapositive2.PNG)
 
 Le réglage est validé par le tracé de la réponse harmonique en boucle ouverte corrigée.
 
