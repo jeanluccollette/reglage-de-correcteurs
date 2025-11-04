@@ -4,6 +4,8 @@
 
 On souhaite obtenir une **réponse indicielle en boucle fermée** qui soit approximativement associée à un dépassement $D$ et à un temps de premier maximum $t_m$. On en déduit des contraintes sur la **réponse harmonique en boucle ouverte** sous la forme d'une pulsation de coupure $\omega_c$ et d'une marge de phase $\Delta\Phi$. Les abaques ci-dessous donnent le lien approximatif entre ces différentes grandeurs. Il est courant de faire l'approximation supplémentaire $\omega_c \times t_m \approx 3$ pour obtenir ces contraintes. La recherche sur les définitions de ces grandeurs est laissée au soin du lecteur.
 
+Pour les détails concernant la génération de ces abaques, on pourra se référer à [ce dépôt](https://github.com/jeanluccollette/abaques_pour_le_reglage_de_correcteurs).
+
 ![](data/abaque1.png)
 
 ![](data/abaque2.png)
