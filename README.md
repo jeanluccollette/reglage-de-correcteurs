@@ -18,7 +18,7 @@ Le système étudié est un moteur à courant continu commandé par la tension �
 
 Ce système est caractérisé par la fonction de transfert
 
-$$\mu(p)=\dfrac{\Omega(p)}{U(p)}$$
+$$\mu(p)=\dfrac{\Omega(p)}{U(p)}=\dfrac{K_v}{(1+\tau_m p)(1+\tau_e p)}$$
 
 Pour compléter l'étude, on évalue l'effet d'une perturbation $d(t)$ sous forme d'échelon.
 
